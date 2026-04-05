@@ -7,6 +7,9 @@ A comprehensive repository capturing my journey from the basics of HTML/CSS to a
 ## 📌 Project Overview
 This repository is organized by "Phases," moving from structural design to complex logic. Each directory includes source code, styling experiments, and key takeaways from my technical study sessions.
 
+### 🌟 Featured Projects
+* **[My First HTML Project](https://github.com/Shambhavi25-vit/FirstHTML)** - The beginning of my journey into structural web design and semantic HTML.
+
 ### 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+)
 * **Backend:** Node.js / Express (Planned)
