@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    perspective: 800px;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: orange;
+    cursor: pointer;
+   /* transition-property: background-color , width;*/
+    transition-duration: 3s;
+}
+.box:hover{
+    transform: scale(2);
+    /*width:300px;
+    background-color: azure;*/
+    transform: translateZ(200px);
+   /* transform: rotate(30deg);*/
+}
